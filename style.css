@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@400;700&display=swap");
 
-/*
-font-family: 'Poppins', sans-serif;
-font-family: 'Roboto', sans-serif;
-*/
-
 * {
   margin: 0;
   padding: 0;
@@ -25,7 +20,7 @@ body {
 }
 
 h1 {
-  font-size: 2.5rem; /*  1 rem = 16 px */
+  font-size: 2.5rem; 
 }
 h2 {
   font-size: 1.5rem;
@@ -62,7 +57,7 @@ a {
 /* top banner */
 .top-banner {
   background-color: #e74694;
-  background-image: url(/img/asset\ 32.png);
+  background-image: url(img/asset\ 32.png);
   background-size: 400px;
 }
 .banner-text {
@@ -109,7 +104,6 @@ a {
   font-weight: 500;
   color: white !important;
   padding: 12px 24px;
-  /* box-shadow: 0 0 2px var(--secondary-text-color); */
   transition: 0.2s ease-out;
 }
 
@@ -232,7 +226,6 @@ header {
 
 .feature-img img {
   width: 100%;
-  /* div feture image is his parrent. so it is 100% on thr basis of parent. */
 }
 
 .feature-desc {
@@ -273,7 +266,7 @@ header {
   padding-top: 22px;
   padding-left: 25px;
   padding-bottom: 22px;
-  background-image: url(/img/asset\ 35.svg);
+  background-image: url(img/asset\ 35.svg);
   background-repeat: no-repeat;
 }
 .p-img {
@@ -368,7 +361,7 @@ header {
   height: 300px;
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 36.jpeg);
+    url(img/asset\ 36.jpeg);
   background-size: cover;
   transition: 0.2s ease-out;
 }
@@ -378,18 +371,18 @@ header {
 }
 .examples-card:nth-child(2) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 37.jpeg);
+    url(img/asset\ 37.jpeg);
   background-size: cover;
 }
 .examples-card:nth-child(3) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 38.jpeg);
+    url(img/asset\ 38.jpeg);
   background-size: cover;
 }
 
 .examples-card:nth-child(4) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 39.jpeg);
+    url(img/asset\ 39.jpeg);
   background-size: cover;
 }
 
