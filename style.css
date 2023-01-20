@@ -63,7 +63,7 @@ a {
 /* top banner */
 .top-banner {
   background-color: #e74694;
-  background-image: url(/img/asset\ 32.png);
+  background-image: url(img/asset\ 32.png);
   background-size: 400px;
 }
 .banner-text {
@@ -201,7 +201,7 @@ header {
 
 .features-section {
   padding: 80px var(--padding-inline-section) 40px;
-  background-image: url(/img/Vector-1.png);
+  background-image: url(img/Vector-1.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 761px 746px;
@@ -253,7 +253,6 @@ header {
 
 .feature-img img {
   width: 100%;
-  /* div feture image is his parrent. so it is 100% on thr basis of parent. */
 }
 
 .feature-desc {
@@ -294,7 +293,7 @@ header {
   padding-top: 22px;
   padding-left: 25px;
   padding-bottom: 22px;
-  background-image: url(/img/asset\ 35.svg);
+  background-image: url(img/asset\ 35.svg);
   background-repeat: no-repeat;
 }
 .p-img {
@@ -390,7 +389,7 @@ header {
   height: 300px;
   background: black;
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 36.jpeg);
+    url(img/asset\ 36.jpeg);
   background-size: cover;
   transition: 0.2s ease-out;
 }
@@ -400,18 +399,18 @@ header {
 }
 .examples-card:nth-child(2) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 37.jpeg);
+    url(img/asset\ 37.jpeg);
   background-size: cover;
 }
 .examples-card:nth-child(3) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 38.jpeg);
+    url(img/asset\ 38.jpeg);
   background-size: cover;
 }
 
 .examples-card:nth-child(4) {
   background: linear-gradient(rgb(0, 0, 0, 0.1), rgb(0, 0, 0, 0.8)),
-    url(/img/asset\ 39.jpeg);
+    url(img/asset\ 39.jpeg);
   background-size: cover;
 }
 
